@@ -7,7 +7,7 @@
 <h1>Tienda para la compra de tazas personalizadas</h1>
 
 
-<img src="https://">
+
 
 <h2>Instalación<h2>
 <p>Si desea correr este proyecto, simplemente clone este repositorio y ejecute npm install luego npm start en carpeta raiz y carpeta frontend</p>
